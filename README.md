@@ -1,36 +1,4 @@
-Skip to content
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@fundaeren 
-fundaeren
-/
-fundaeeren.github.io
-Template
-generated from fundaeren/fundaeren.github.io
-1
-00
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-fundaeeren.github.io/aktif-pasif bilgi toplama
-@fundaeren
-fundaeren Create aktif-pasif bilgi toplama
-Latest commit 6af9aaf 1 minute ago
- History
- 1 contributor
-403 lines (205 sloc)  24 KB
-  
 # AKTİF-PASİF BİLGİ TOPLAMA
 
 ## PASİF BİLGİ TOPLAMA
